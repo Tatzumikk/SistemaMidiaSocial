@@ -40,6 +40,6 @@ Arquivo-chave:
 
 Diagrama:
 
-
+<img width="7125" height="1276" alt="diagrama" src="https://github.com/user-attachments/assets/392ce8b9-69d4-4107-bb1f-76be8f0914ab" />
 
 
